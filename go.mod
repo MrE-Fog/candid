@@ -17,7 +17,7 @@ require (
 	github.com/juju/mgo/v2 v2.0.0-20220111072304-f200228f1090
 	github.com/juju/mgotest v1.0.3
 	github.com/juju/names/v4 v4.0.0-20200929085019-be23e191fee0
-	github.com/juju/persistent-cookiejar v0.0.0-20170428161559-d67418f14c93
+	github.com/juju/persistent-cookiejar v1.0.0
 	github.com/juju/postgrestest v1.1.1
 	github.com/juju/qthttptest v0.1.3
 	github.com/juju/schema v1.0.1-0.20190814234152-1f8aaeef0989
