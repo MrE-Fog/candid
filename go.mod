@@ -16,7 +16,7 @@ require (
 	github.com/juju/loggo v1.0.0
 	github.com/juju/mgo/v2 v2.0.0-20220111072304-f200228f1090
 	github.com/juju/mgotest v1.0.3
-	github.com/juju/names/v4 v4.0.0-20200929085019-be23e191fee0
+	github.com/juju/names/v4 v4.0.0
 	github.com/juju/persistent-cookiejar v1.0.0
 	github.com/juju/postgrestest v1.1.1
 	github.com/juju/qthttptest v0.1.3
@@ -87,9 +87,9 @@ require (
 	github.com/juju/errors v0.0.0-20220203013757-bd733f3c86b9 // indirect
 	github.com/juju/go4 v0.0.0-20160222163258-40d72ab9641a // indirect
 	github.com/juju/httpprof v0.0.0-20141217160036-14bf14c30767 // indirect
-	github.com/juju/retry v0.0.0-20180821225755-9058e192b216 // indirect
+	github.com/juju/retry v0.0.0-20220204093819-62423bf33287 // indirect
 	github.com/juju/utils/v3 v3.0.0-20220203023959-c3fbc78a33b0 // indirect
-	github.com/juju/version/v2 v2.0.0-20211007103408-2e8da085dc23 // indirect
+	github.com/juju/version/v2 v2.0.0-20220204124744-fc9915e3d935 // indirect
 	github.com/juju/webbrowser v0.0.0-20160309143629-54b8c57083b4 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
